@@ -2,5 +2,5 @@
 
 # Stellar: Introduction
 # Kevin: Disccussion
-# Ibrahim:
-# Charles:
+# Ibrahim: Methods and Results
+# Charles: Methods and Results
